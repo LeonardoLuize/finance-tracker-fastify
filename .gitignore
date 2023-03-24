@@ -1,5 +1,5 @@
-tmp
-tmp/app.db
+database
+database/app.db
 
 # Logs
 logs
