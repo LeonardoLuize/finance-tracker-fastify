@@ -1,5 +1,4 @@
-database/app.db
-database/test.db
+database/*.db
 
 # Logs
 logs
