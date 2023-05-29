@@ -1,4 +1,4 @@
-<h1 align="center">Node Fastify</h1>
+<h1 align="center">Finance Tracker Fastify</h1>
 
 <p align="center">A project to learn more about Fastify and Knex.</p>
 
